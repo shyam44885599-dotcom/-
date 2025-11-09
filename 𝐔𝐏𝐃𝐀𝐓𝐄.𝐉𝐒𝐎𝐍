@@ -1,9 +1,8 @@
 {
   "showDialog": true,
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
-  "title": "𝐔ᴘᴅᴀᴛᴇ 𝐀ᴠᴀɪʟᴀʙʟᴇ",
-  "message": "𝐍ᴇᴡ 𝐔ᴘᴅᴀᴛᴇᴅ  𝐕ᴇʀsɪᴏɴ 𝐔ᴘʟᴏᴀᴅᴇᴅ 𝐎ɴ 𝐎ᴜʀ 𝐓ᴇʟᴇɢʀᴀᴍ 𝐂ʜᴀɴɴᴇʟ 𝐉ᴏɪɴ 𝐀ɴᴅ 𝐔sᴇ 𝐕3 𝐔ᴘᴅᴀᴛᴇᴅ 𝐌ᴏᴅ",
-  "UpdateButtonText": "𝐃ᴏᴡɴʟᴏᴀᴅ",
+  "expires": "01-10-2025",
+  "title": "UPDATE AVAILABLE",
+  "message": "Get the newest features and improvements.",
+  "UpdateButtonText": "DOWNLOAD",
   "UpdateButtonUrl": "https://t.me/+idShmJ1EqUc2ZDI1"
 }
